@@ -1,0 +1,6 @@
+第一步：
+pip install pyqt5==5.12.12 (根据安装编译器版本去选择这个版本号)
+
+如果开不行，开始第二步
+pip install pyqtwebengine==5.12.0
+
